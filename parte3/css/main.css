@@ -1,0 +1,25 @@
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+.caja {
+	height: 200px;
+	width: 200px;
+	position: relative;
+	left: 20px;
+}
+
+.uno {
+	background-color: #EE3E64;
+}
+
+.dos {
+	background-color: #44ACCF;
+	position: relative;
+	left: 220px;
+}
+
+.tres {
+	background-color: #B7D84B;
+}
